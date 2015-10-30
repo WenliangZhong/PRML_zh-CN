@@ -2,10 +2,8 @@
 
 This is the summary of the book.
 
-* [Mathematical notation](Mathematical notation/Mathematical notation.md)
-
 * [Introduction](1 Introduction/1 Introduction.md)
-    * [Example: Polynomial Curve Fitting](1 Introduction/1.1 Example: Polynomial Curve Fitting.md)
+    * [Example: Polynomial Curve Fitting](1 Introduction/1.1 Example Polynomial Curve Fitting.md)
     * [Probability Theory](1 Introduction/1.2 Probability Theory.md)
     	* [Probability densities](1 Introduction/1.2.1 Probability densities.md)
     	* [Expectations and covariances](1 Introduction/1.2.2 Expectations and covariances.md)
@@ -21,7 +19,7 @@ This is the summary of the book.
     	* [The reject option](1 Introduction/1.5.3 The reject option.md)
     	* [Inference and decision](1 Introduction/1.5.4 Inference and decision.md)
     	* [Loss functions for regression](1 Introduction/1.5.5 Loss functions for regression.md)
-    * [Information Theory](1 Introduction/Information Theory.md)
+    * [Information Theory](1 Introduction/1.6 Information Theory.md)
     	* [Relative entropy and mutual information](1 Introduction/1.6.1 Relative entropy and mutual information.md)
     * [Exercises](1 Introduction/Exercises.md)
 
@@ -292,6 +290,8 @@ This is the summary of the book.
 		* [Mixtures of logistic models](14 Combining Models/14.5.2 Mixtures of logistic models.md)
 		* [Mixtures of experts](14 Combining Models/14.5.3 Mixtures of experts.md)
 	* [Exercises](14 Combining Models/Exercises.md)
+
+* [Mathematical notation](Mathematical notation/Mathematical notation.md)
 
 * [Appendix A Data Sets](Appendix A Data Sets/Appendix A Data Sets.md)
 
